@@ -521,7 +521,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [akd](https://github.com/annkissam/akd) - Capistrano like, Configurable, and easy to set up Elixir Deployment Automation Framework.
 * [ansible-elixir-stack](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
 * [bootleg](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
-* [bottler](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
+* [bottler](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production [ABANDONED].
 * [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 * [elixir-on-docker](https://github.com/CrowdHailer/elixir-on-docker) - A project template to get started developing clustered Elixir applications for cloud environments.
 * [exdm](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
